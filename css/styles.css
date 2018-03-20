@@ -1,0 +1,21 @@
+.hidden {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: blue;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.clickTwo {
+  cursor: pointer;
+  color: blue;
+}
+
+.clickTwo:hover {
+  text-decoration: underline;
+}

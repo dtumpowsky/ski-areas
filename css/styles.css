@@ -19,3 +19,15 @@
 .clickTwo:hover {
   text-decoration: underline;
 }
+
+.green-background {
+  background-color: #c1e2b3;
+}
+
+.blue-background {
+  background-color: #afd9ee;
+}
+
+.red-background {
+  background-color: #d9534f;
+}
